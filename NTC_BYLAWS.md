@@ -45,7 +45,7 @@ via the Secretariat and its groups.
 ### Section 2. Code of Conduct and Resolutions Procedure.
 
 Members of the NTC shall comply with
-the[DSA Harassment Policy](https://www.dsausa.org/about-us/harassment-policy-resolution-33/).
+the [DSA Harassment Policy](https://www.dsausa.org/about-us/harassment-policy-resolution-33/).
 This includes any and all communication on digital channels, such as chat,
 email, and meetings. Membership may be suspended and access to restricted
 channels revoked by
